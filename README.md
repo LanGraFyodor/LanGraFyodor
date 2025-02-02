@@ -6,7 +6,6 @@
 > 
 > Я — начинающий разработчик, который страстно любит решать сложные задачи, создавать масштабируемые микросервисы и внедрять инновационные технологии.   
 > 
-
 <div align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="coding" width="300"/>
 </div>
