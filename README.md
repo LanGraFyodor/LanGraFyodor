@@ -15,8 +15,8 @@
 ---
 
 ## :hammer_and_wrench: Навыки и технологии которые использую или изучаю
-<div align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+<p align="center">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) 
 ![jOOQ](https://img.shields.io/badge/jOOQ-009688?style=for-the-badge) 
@@ -65,7 +65,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
 -
-</div>
+</p>
 ---
 
 ## 🚀 Мои цели
