@@ -22,7 +22,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Multiplatform](https://img.shields.io/badge/Multiplatform-FF1493?style=for-the-badge) 
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=android&logoColor=white) 
 ![Ktor](https://img.shields.io/badge/Ktor-0A1E44?style=for-the-badge&logo=kotlin&logoColor=white) 
