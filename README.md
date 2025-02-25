@@ -60,12 +60,12 @@
 ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) 
-![OpenAPI](https://img.shields.io/badge/OpenAPI-652B90?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
 -
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge) 
 ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge) 
 ![Keycloak](https://img.shields.io/badge/Keycloak-003366?style=for-the-badge&logo=keycloak&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) 
+![OpenAPI](https://img.shields.io/badge/OpenAPI-652B90?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
 -
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) 
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white) 
