@@ -42,12 +42,6 @@
 
 ---
 
-## 📂 Мои проекты
-
-[![Backend Academy](https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=backend-academy&theme=radical)](https://github.com/LanGraFyodor/backend-academy)
-
----
-
 ## 📫 Контакты
 
 Если ты хочешь обсудить идеи, сотрудничество или просто пообщаться — пиши мне: 
