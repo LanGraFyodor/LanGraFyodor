@@ -35,6 +35,17 @@
 
 ---
 
+## 🔭 Ключевые репозитории
+
+Ниже — быстрый и стильный доступ к трём главным репозиториям моего портфолио. Просто кликни на плитку, чтобы перейти.
+
+<!-- плитки репозиториев -->
+[![Pet-prog-Java-Kotlin](https://img.shields.io/badge/Pet--prog--Java--Kotlin-00A859?style=for-the-badge&logo=java&logoColor=white)](https://github.com/LanGraFyodor/Pet-prog-Java-Kotlin)
+[![Pet-prog-Golang](https://img.shields.io/badge/Pet--prog--Golang-007ACC?style=for-the-badge&logo=go&logoColor=white)](https://github.com/LanGraFyodor/Pet-prog-Golang)
+[![backend-academy](https://img.shields.io/badge/backend--academy-F4C542?style=for-the-badge&logo=readthedocs&logoColor=black)](https://github.com/LanGraFyodor/backend-academy)
+
+---
+
 ## 🚀 Мои цели
 - Продолжать осваивать новые технологии, чтобы создавать продукты, которые меняют мир.
 - Делать упор на качество кода и архитектурные решения, обеспечивающие масштабируемость.
