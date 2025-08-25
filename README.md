@@ -35,14 +35,56 @@
 
 ---
 
-## 🔭 Ключевые репозитории
+<!-- Элегантная таблица: каждая плитка (с эмблемой) + справа её "pin" (github-readme-stats) -->
+<!-- Просто вставь этот блок в свой README профиля -->
 
-Ниже — быстрый и стильный доступ к трём главным репозиториям моего портфолио. Просто кликни на плитку, чтобы перейти.
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <!-- зелёная плитка + эмблема Spring -->
+      <a href="https://github.com/LanGraFyodor/Pet-prog-Java-Kotlin" target="_blank">
+        <img src="https://img.shields.io/badge/Pet--prog--Java--Kotlin-00A859?style=for-the-badge&logo=spring&logoColor=white" alt="Pet-prog-Java-Kotlin" />
+      </a>
+    </td>
+    <td align="center" width="55%">
+      <!-- pin-статистика справа -->
+      <a href="https://github.com/LanGraFyodor/Pet-prog-Java-Kotlin" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=Pet-prog-Java-Kotlin&theme=dark" alt="Pin: Pet-prog-Java-Kotlin" />
+      </a>
+    </td>
+  </tr>
 
-<!-- плитки репозиториев -->
-[![Pet-prog-Java-Kotlin](https://img.shields.io/badge/Pet--prog--Java--Kotlin-00A859?style=for-the-badge&logo=java&logoColor=white)](https://github.com/LanGraFyodor/Pet-prog-Java-Kotlin)
-[![Pet-prog-Golang](https://img.shields.io/badge/Pet--prog--Golang-007ACC?style=for-the-badge&logo=go&logoColor=white)](https://github.com/LanGraFyodor/Pet-prog-Golang)
-[![backend-academy](https://img.shields.io/badge/backend--academy-F4C542?style=for-the-badge&logo=readthedocs&logoColor=black)](https://github.com/LanGraFyodor/backend-academy)
+  <tr>
+    <td align="center" width="45%" style="padding-top:18px;">
+      <!-- голубая плитка -->
+      <a href="https://github.com/LanGraFyodor/Pet-prog-Golang" target="_blank">
+        <img src="https://img.shields.io/badge/Pet--prog--Golang-007ACC?style=for-the-badge&logo=go&logoColor=white" alt="Pet-prog-Golang" />
+      </a>
+    </td>
+    <td align="center" width="55%" style="padding-top:18px;">
+      <!-- pin-статистика справа -->
+      <a href="https://github.com/LanGraFyodor/Pet-prog-Golang" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=Pet-prog-Golang&theme=dark" alt="Pin: Pet-prog-Golang" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="45%" style="padding-top:18px;">
+      <!-- жёлтая плитка -->
+      <a href="https://github.com/LanGraFyodor/backend-academy" target="_blank">
+        <img src="https://img.shields.io/badge/backend--academy-F4C542?style=for-the-badge&logo=education&logoColor=black" alt="backend-academy" />
+      </a>
+    </td>
+    <td align="center" width="55%" style="padding-top:18px;">
+      <!-- pin-статистика справа -->
+      <a href="https://github.com/LanGraFyodor/backend-academy" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=backend-academy&theme=dark" alt="Pin: backend-academy" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
