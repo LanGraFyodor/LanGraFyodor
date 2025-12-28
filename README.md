@@ -46,11 +46,6 @@
         <img src="https://img.shields.io/badge/Pet--prog--Java--Kotlin-00A859?style=for-the-badge&logo=spring&logoColor=white" alt="Pet-prog-Java-Kotlin" />
       </a>
     </td>
-    <td align="center" width="55%">
-      <a href="https://github.com/LanGraFyodor/Pet-prog-Java-Kotlin" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=Pet-prog-Java-Kotlin&theme=dark&cache_seconds=0" alt="Pin: Pet-prog-Java-Kotlin" />
-      </a>
-    </td>
   </tr>
 
   <tr>
@@ -59,22 +54,12 @@
         <img src="https://img.shields.io/badge/Pet--prog--Golang-007ACC?style=for-the-badge&logo=go&logoColor=white" alt="Pet-prog-Golang" />
       </a>
     </td>
-    <td align="center" width="55%" style="padding-top:18px;">
-      <a href="https://github.com/LanGraFyodor/Pet-prog-Golang" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=Pet-prog-Golang&theme=dark&cache_seconds=0" alt="Pin: Pet-prog-Golang" />
-      </a>
-    </td>
   </tr>
 
   <tr>
     <td align="center" width="45%" style="padding-top:18px;">
       <a href="https://github.com/LanGraFyodor/backend-academy" target="_blank">
         <img src="https://img.shields.io/badge/backend--academy-F4C542?style=for-the-badge&logo=book&logoColor=black" alt="backend-academy" />
-      </a>
-    </td>
-    <td align="center" width="55%" style="padding-top:18px;">
-      <a href="https://github.com/LanGraFyodor/backend-academy" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanGraFyodor&repo=backend-academy&theme=dark&cache_seconds=0" alt="Pin: backend-academy" />
       </a>
     </td>
   </tr>
